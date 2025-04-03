@@ -6,7 +6,6 @@ Este espacio funciona como un entorno controlado de pruebas (sandbox) enfocado e
 
 Aunque algunos repositorios simulan arquitecturas específicas de proyectos del laboratorio **InTeractiOn**, otros están orientados a pruebas generales e independientes para evaluar el comportamiento de distintos flujos de despliegue.
 
----
 
 ## Objetivo principal
 
@@ -15,7 +14,6 @@ Desarrollar un **kit de plantillas de despliegue** que pueda:
 - Ser utilizado por otros desarrolladores o tesistas del laboratorio InTeractiOn.
 - Estandarizar el proceso de despliegue y reducir tiempos de puesta en marcha.
 
----
 
 ## Tecnologías
 
@@ -27,7 +25,6 @@ Desarrollar un **kit de plantillas de despliegue** que pueda:
 - **Node.js / Express** – Microservicios backend para pruebas.
 - **HTML / JavaScript** – Frontend básico para simular interacción.
 
----
 
 ## Proyecto de tesis asociado
 
@@ -39,7 +36,6 @@ Carolina Antillanca Hidalgo
 Memorista - Departamento de Informática  
 Universidad de Santiago de Chile
 
----
 
 ## 📄 Licencia y uso
 
