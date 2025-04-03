@@ -37,6 +37,6 @@ Memorista - Departamento de Informática
 Universidad de Santiago de Chile
 
 
-## 📄 Licencia y uso
+## Licencia y uso
 
 Este espacio de pruebas es de uso académico. Los repositorios pueden ser utilizados como referencia o adaptados por otros miembros del laboratorio InTeractiOn que busquen automatizar procesos de despliegue en distintos entornos.
