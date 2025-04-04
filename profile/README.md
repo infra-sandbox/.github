@@ -10,20 +10,18 @@ Aunque algunos repositorios simulan arquitecturas específicas de proyectos del 
 ## Objetivo principal
 
 Desarrollar un **kit de plantillas de despliegue** que pueda:
-- Adaptarse fácilmente a distintos entornos (local, cloud y redes universitarias como DIINF).
-- Ser utilizado por otros miembros o tesistas del laboratorio InTeractiOn.
 - Estandarizar el proceso de despliegue y reducir tiempos de puesta en marcha.
-
+- Adaptarse fácilmente a distintos entornos (local, cloud y máquinas virtuales).
+- Ser utilizado por otros miembros o tesistas del laboratorio InTeractiOn.
 
 ## Tecnologías
 
 - **Ansible** – Automatización de configuración y despliegue.
+- **Terraform** – Provisionamiento de infraestructura como código (IaC).
 - **Docker / Docker Compose** – Contenerización y orquestación local.
 - **Nginx** – Manejo de tráfico y reverse proxy entre servicios.
 - **GitHub Actions / Jenkins** – Automatización CI/CD desde repositorios.
 - **GitBook** – Documentación técnica de las plantillas y su uso.
-- **Node.js / Express** – Microservicios backend para pruebas.
-- **HTML / JavaScript** – Frontend básico para simular interacción.
 
 
 ## Proyecto de tesis asociado
